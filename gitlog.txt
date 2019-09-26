@@ -1,0 +1,11 @@
+commit 4fd548cd8495e86d777c0beb02c8aa52d1794e7d
+Author: Jared Hamilton <jghamilton@mines.edu>
+Date:   Thu Sep 26 12:01:57 2019 -0600
+
+    coding standards
+
+commit dd6524ede9fed586bd3281f55f2a45f12e08f289
+Author: Jared Hamilton <jghamilton@mines.edu>
+Date:   Thu Sep 26 11:56:24 2019 -0600
+
+    working solution
