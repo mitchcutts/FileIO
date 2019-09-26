@@ -1,4 +1,4 @@
-
+//Mitch Cutts and Jared Hamilton, 11AM Section
 public class Student implements Comparable<Student> {	
 	private String name;
 	private int score;
@@ -21,6 +21,8 @@ public class Student implements Comparable<Student> {
 	}
 
 	@Override
+
+	//compare based on student's name (alphabetical)
 	public int compareTo(Student o) {
 		return name.compareTo(o.name);
 	} 
